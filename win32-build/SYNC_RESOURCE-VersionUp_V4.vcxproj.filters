@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\VersionUp_V4\win32-build\CMakeFiles\75cafb4c65abb409f80065e6381f90bc\SYNC_RESOURCE-VersionUp_V4.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\VersionUp_V4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\VersionUp_V4\win32-build\CMakeFiles\SYNC_RESOURCE-VersionUp_V4" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9EC1341B-0616-35C6-A77F-D6A05642A702}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
